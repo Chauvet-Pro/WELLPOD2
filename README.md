@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.5 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/e1f6aa333e52bd1772344c3f90fc1fc9bf7f7285/firmware/V1.0.5.zip)
+- Adds Charge Light Indicator On/Off options in Display Menu and RDM
+
 [V1.0.4 - WELL POd 2](https://github.com/Chauvet-Pro/WELLPOD2/raw/refs/heads/main/firmware/V1.0.4.zip)
 - Fixes the preset color issue with the RF remote
 
