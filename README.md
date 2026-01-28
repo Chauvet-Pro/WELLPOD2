@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.7 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/d96ed36719abd3e2a105959808c3fbca85403b3d/firmware/V1.0.7.zip)
+- Fixes the charge light indicator issue where the red and green LEDs illuminate at the same time during charging
+
 [V1.0.5 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/e1f6aa333e52bd1772344c3f90fc1fc9bf7f7285/firmware/V1.0.5.zip)
 - Adds Charge Light Indicator On/Off options in Display Menu and RDM
 
