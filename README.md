@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V.1.1 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/ca23d0d65850b5b1ed90b55b5d6b958276c78824/firmware/V1.1.1.zip)
+[V1.1.1 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/ca23d0d65850b5b1ed90b55b5d6b958276c78824/firmware/V1.1.1.zip)
 - Fixes minor RDM issues
 
 [V1.1 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/70f9aec093c7ee90beb1cc88ea26cb904a71ccae/firmware/V1.1.zip)
