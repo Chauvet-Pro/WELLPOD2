@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.2 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/538acb8d5a4c5ff5ce17c893c98aa34a37486a75/firmware/V1.2.zip)
+- Matches battery life functionality to maximum output based on hours of operation.
+
 [V1.1.1 - WELL POD 2](https://github.com/Chauvet-Pro/WELLPOD2/blob/ca23d0d65850b5b1ed90b55b5d6b958276c78824/firmware/V1.1.1.zip)
 - Fixes minor RDM issues
 - Improves battery runtime to align with all runtime presets
